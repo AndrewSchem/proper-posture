@@ -1,0 +1,9 @@
+Barbell Bicep Curl:
+Light - 18kg
+Moderate - 32kg
+Heavy - 46kg
+
+Barbell Row:
+Light - 38kg
+Moderate - 62kg
+Heavy - 72kg
